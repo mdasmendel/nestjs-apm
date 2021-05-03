@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/xiz0r/nestjs-apm#readme",
   "dependencies": {
-    "elastic-apm-node": "^2.1.0"
+    "elastic-apm-node": "^3.14.0"
   },
   "lint-staged": {
     "*.ts": [
